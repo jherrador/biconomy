@@ -5,9 +5,9 @@ The porpouse of this project is use Biconomy.io and Meta Transactions allowing t
 
 Deployed Contracts in Goerli:
 - ***LockedVault.sol*** => Locked Stacking/Withdraw contract.
-    - Address: 0x38AC731d876de5702583000cF85Ef8D2B7464Daf
+    - Address: [0x38AC731d876de5702583000cF85Ef8D2B7464Daf](https://goerli.etherscan.io/address/0x38AC731d876de5702583000cF85Ef8D2B7464Daf).
 - ***StandardToken.sol*** => Example ERC20 token
-    - Address: 0x6B385003DB426F1b7fe87BDa2fDbc9A13dcd3C59
+    - Address: [0x6B385003DB426F1b7fe87BDa2fDbc9A13dcd3C59](https://goerli.etherscan.io/address/0x6B385003DB426F1b7fe87BDa2fDbc9A13dcd3C59)
 
 ## Installation
 1. Create a copy of .env.example and rename it to .env inside the /smart_contracts
