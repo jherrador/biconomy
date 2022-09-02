@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Eth",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/ethereum-2296075-1912034.png",
+    "address": ""
+  },
+  {
+    "id": 2,
+    "name": "Standard Token",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/ethereum-2296075-1912034.png",
+    "address": "0x6B385003DB426F1b7fe87BDa2fDbc9A13dcd3C59"
+  }
+]
